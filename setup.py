@@ -24,6 +24,6 @@ setup(
     zip_safe=False,
     install_requires=[
         'django-tastypie>=0.12.2',
-        'geonode==2.5.5',
+        'geonode==4.1.3.post1',
     ]
 )
